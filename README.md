@@ -1,4 +1,4 @@
-# Customer Segmentation using K-Means
+# Mall Customer Segmentation using K-Means
 
 ## Deskripsi
 Proyek ini bertujuan melakukan segmentasi pelanggan menggunakan algoritma K-Means pada dataset Mall Customers.
@@ -20,15 +20,16 @@ Jumlah cluster optimal: 5 cluster
 
 Segmentasi pelanggan:
 - Average Customer
+- Loyal Customer
 - Potential Customer
 - Impulsive Customer
-- Premium Customer
-- Budget Customer
+- Passive Customer
 
-## Tools
+## Tools & Libraries
 - Python
 - Google Colab
 - Pandas
-- Scikit-Learn
+- NumPy
 - Matplotlib
 - Seaborn
+- Scikit-Learn
