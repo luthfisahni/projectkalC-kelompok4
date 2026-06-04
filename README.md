@@ -1,7 +1,7 @@
-#  Analisis Kinerja Penjualan / Customer Segmentation Menggunakan K-Means Clustering
+#  Analisis Kinerja Penjualan dan Customer Segmentation Menggunakan K-Means Clustering
 
 ## Deskripsi
-Proyek ini bertujuan melakukan segmentasi pelanggan menggunakan algoritma K-Means pada dataset Mall Customers.
+Project ini bertujuan melakukan segmentasi pelanggan menggunakan algoritma K-Means pada dataset Mall Customers.
 
 ## Dataset
 Mall Customers Dataset (Kaggle)
